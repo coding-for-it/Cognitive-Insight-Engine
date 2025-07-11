@@ -9,13 +9,5 @@ An AI-powered document analysis tool that extracts key performance indicators (K
 - Performs **sentiment analysis** to detect overall tone (positive, neutral, negative)
 - Detects important sections like "Financial Overview", "Management Discussion", etc.
 - Built using **FastAPI (backend)** and **Streamlit (frontend)**
-
-## Tech Stack
-
-Layer       Technology             
-Frontend    Streamlit               
-Backend     FastAPI                 
-NLP         TextBlob, Regex         
-Parsing     pdfplumber, pandas      
-File Types  PDF, Excel (.xlsx)      
+   
 
