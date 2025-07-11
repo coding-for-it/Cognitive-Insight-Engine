@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pandas
+matplotlib
+seaborn
+pdfplumber
+python-docx
+pytesseract
+textblob
