@@ -4,11 +4,11 @@ An AI-powered document analysis tool that extracts key performance indicators (K
 
 ## Features
 
-- ✅ Upload support for **PDF** and **Excel (.xlsx)**
-- 📈 Extracts **financial KPIs** like Revenue, Net Profit, and Profit Margin
-- 🧠 Performs **sentiment analysis** to detect overall tone (positive, neutral, negative)
-- 📂 Detects important sections like "Financial Overview", "Management Discussion", etc.
-- 🌐 Built using **FastAPI (backend)** and **Streamlit (frontend)**
+- Upload support for **PDF** and **Excel (.xlsx)**
+- Extracts **financial KPIs** like Revenue, Net Profit, and Profit Margin
+- Performs **sentiment analysis** to detect overall tone (positive, neutral, negative)
+- Detects important sections like "Financial Overview", "Management Discussion", etc.
+- Built using **FastAPI (backend)** and **Streamlit (frontend)**
 
 ## Tech Stack
 
